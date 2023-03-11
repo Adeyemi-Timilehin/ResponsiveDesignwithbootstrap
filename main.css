@@ -1,0 +1,17 @@
+#top_container {
+    background-image: url("./images/iot_voice.PNG");
+    background-color: #02BAFF;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    color: #fff;
+    background-attachment:fixed;
+
+}
+#overlay{
+    height: 600px;
+    background-color: rgba(0,0,0,0.5);
+}
+.wrapper-content{
+    padding-top:70px ;
+}
